@@ -3,7 +3,7 @@
   "model": "",
   "open_ai_api_key": "YOUR API KEY",
   "claude_api_key": "YOUR API KEY",
-  "text_to_image": "dall-e-2",
+  "text_to_image": "dall-e-3",
   "voice_to_text": "openai",
   "text_to_voice": "openai",
   "proxy": "",
